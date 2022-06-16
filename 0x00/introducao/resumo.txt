@@ -1,0 +1,7 @@
+                                      MICROSSERVIÇOS
+
+Podemos perceber que, os microsserviços são um inovação de arquitetura de software que consiste em construir aplicações que são distribuídos e levemente acoplados para não interromper o desenvolvimentos de outras equipes em projetos de médio ou grande porte. Estes serviços eles se comunicam entre si através de uma API, no qual promove grande agilidade nós times de desenvolvimentos.
+
+Na arquitetura monolítica, há dependência dos serviços entre si, divergente dos microsserviços. Nós dias atuais já não é tão beneficente utilizar esse tipo de arquitetura devido as novas metodologias ágeis, pois para realizar uma alteração de um serviço pode comprometer todo o funcionamento de uma aplicação ou mexer com features que possui dependência de outras. Com isso, podemos observar que a arquitetura de microsserviços seria o ideal para os projetos, devido aos seus benefícios, um dos exemplos deles são: fracamente acoplado, manutenção e testabilidade e pode ser implantado independente juntamente com seus demais benefícios.
+
+Na arquitetura de microsserviços eles possuem tipos de comunicações, uma delas são: comunicação por HTTP(que pode ser o padrão síncrono e assíncrono), comunicação por mensagens e comunicação orientadas a eventos. Cada uma delas possui suas vantagens e desvantagens e pode ser utilizada para cada tipo de situação. Contudo, não só existem só esses padrões de comunicações em microsserviços, possuem mais maneiras deles se comunicarem.
