@@ -1,0 +1,15 @@
+ARQUITETURA SERVERLESS E FAAS
+
+A arquitetura Servless(ou arquitetura sem servidor) seria uma estrutura de aplicativos que hospeda serviços de terceiros que pode executar e incluir códigos personalizados em containers gerenciados a partir do Faas(Function-as-a-Service) ou seja o Servless é um modelo nativo e inovador em nuvem para criação e execução de aplicações sem o gerenciamento de servidores. O Faas(função como serviço) seria um tipo de serviço em cloud computing que permite que os desenvolvedores criem, executem e gerenciem pacotes de aplicações como funções, sem a necessidade de se preocupar com a manutenção da infraestrutura. 
+
+Os benefícios dos servless são diversos, como : aumentar a produtividade dos desenvolvedores e redução de custos operacionais, livrar os desenvolvedores de tarefas rotineiras e gerenciamentos de servidores, os serviços são pagos conforme necessários ou seja de acordo com uso dos serviços e com a possibilidade de incorporar componentes de terceiros para otimizar mais ainda o desenvolvimento de aplicações.
+
+Já o Cloud Computing(computação em nuvem) são serviços de computação(servidores, armazenamento, banco de dados, rede, software, análise e inteligência) a partir pela internet(nuvem) para oferecer inovações mais rápidas, recursos flexíveis e economias de escala. Os benefícios da computação em nuvem são: O diminuição de custos, a velocidade que os serviços são entregues, possui uma grande escala global e possui grande confiabilidade e segurança.
+
+Com a evolução tecnológica, foi surgindo a necessidade de novas tendências para atender e acompanhar essa evolução e com isso vou diferenciar cada uma delas:
+
+Arquitetura Monolítica: É um único e não dividido, que roda em único processo, ou seja as aplicações dependem umas das outras para o funcionamento.
+
+Microsserviços: São pequenos sistemas que são independentes e que comunicam através das APIs que são bem definidas. Com isso, são autossuficientes e trás facilidade na manutenção sem comprometer outros serviços.
+
+Servless: Apesar de herdar alguns conceitos dos Microsserviços, elas tem seus próprios diferenciais. É conhecida como “computação sem servidores” ou seja é uma arquitetura que é a orientada a eventos. 
